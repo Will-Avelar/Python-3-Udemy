@@ -313,3 +313,4 @@ print(True and False and True)
 print(True and 0 and True)
 '''
 print(True and True and True) 
+
